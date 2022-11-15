@@ -17,6 +17,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abw/badger-forms.git"
+  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
